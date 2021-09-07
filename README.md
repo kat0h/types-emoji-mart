@@ -1,1 +1,1 @@
-# -types-emoji-mart
+# types-emoji-mart
